@@ -1,2 +1,2 @@
 # GGBWeb
-Integrative, web-based genome browser based on the Gaggle Genome Browser
+Integrative, web-based genome browser descended from the Gaggle Genome Browser
